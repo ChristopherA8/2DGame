@@ -3,3 +3,10 @@ include
 lib
 main
 Makefile
+Debug
+Dependencies
+Release
+x64
+Game_ChrisA.*
+.vs
+src/sfml
