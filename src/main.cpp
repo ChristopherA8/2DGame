@@ -5,7 +5,7 @@
 #define SCREEN_HEIGHT 1080
 
 int main() {
-  bool windowFocused = false;
+  bool windowFocused = true;
 
   sf::RenderWindow window(sf::VideoMode(SCREEN_WIDTH, SCREEN_HEIGHT), "2D Game", sf::Style::Close);
   float distance = 0.0f;
